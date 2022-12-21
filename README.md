@@ -3,11 +3,29 @@ Project for introduction to robotics optional course
 
 
 ## Game description
-In this panning-camera maze game, players must navigate from the top-left corner to the bottom-right corner of the LED matrix display as quickly as possible using a joystick. The game is played by moving the joystick in different directions to move hrough the maze. The maze consists of a series of puzzles, obstacles and challenges that the player must overcome.
+In this panning-camera maze game, players must navigate from the top-left corner to the bottom-right corner of the LED matrix display as quickly as possible using a joystick. The game is played by moving the joystick in different directions to move through the maze. The maze consists of a series of puzzles, obstacles and challenges that the player must overcome.
 
 However, there is a catch: the maze is filled with invisible bombs that will explode if the player comes too close! To help navigate the maze, a LED will turn on if the player is in a bomb-afected area, alerting them to the danger. The player must avoid touching the walls of the maze and the invisible bombs at all costs, as a single mistake will result in the game being over.
 
 The game is won by successfully navigating through the entire maze and reaching the bottom-right corner without touching any walls or bombs. The LED matrix display provides a unique and visually stunning way to experience the maze, as the camera pans and shifts to follow the cursor's movements through the twists and turns of the game. With its fast-paced gameplay and challenging obstacles, this panning-camera maze game is sure to keep players on the edge of their seats.
+
+## Photo of setup:
+
+![asd](/Images/setup.jpg)
+
+## Components:<br>
+- 1 Arduino UNO board
+- 1 breadboard medium
+- 1 breadboard small
+- 1 LCD display
+- 1 8x8 LED matrix
+- 1 MAX7219 driver
+- 1 joystick
+- 1 buzzer
+- 1 potentiometer
+- resistors and wires (per logic)
+
+## [Demo Video]()<br>
 
 ## Game backstory
 I had the idea to create a maze game that used the panning camera feature to give players a more immersive experience. Futhermore, I was particularly interested in the idea of using invisible bombs as a way to add an element of surprise and challenge to the game. I felt that this would give players a sense of tension and excitement as they navigated the maze, wondering when the next bomb might appear and how to avoid it.
@@ -35,21 +53,3 @@ The final level of the game is the most difficult by far. The bombs have been pl
 **Bomb logic:** the bomb area has been reduced and has now only 4 adjacent cells activating the LED to alert the player of the danger. This change adds an extra layer of challenge to the game, as players must be more precise in their movements in order to avoid the bombs and successfully navigate the maze.
 
 ![asd](/Images/bomb-area-2.jpg)
-
-## Photo of setup:
-
-![asd](/Images/setup.jpg)
-
-## [Demo Video]()<br>
-
-## Components:<br>
-- 1 Arduino UNO board
-- 1 breadboard medium
-- 1 breadboard small
-- 1 LCD display
-- 1 8x8 LED matrix
-- 1 MAX7219 driver
-- 1 joystick
-- 1 buzzer
-- 1 potentiometer
-- resistors and wires (per logic)
