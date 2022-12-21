@@ -25,7 +25,7 @@ The game is won by successfully navigating through the entire maze and reaching 
 - 1 potentiometer
 - resistors and wires (per logic)
 
-## [Demo Video]()<br>
+## [Demo Video](https://www.youtube.com/watch?v=MXymNoPZde8)<br>
 
 ## Game backstory
 I had the idea to create a maze game that used the panning camera feature to give players a more immersive experience. Futhermore, I was particularly interested in the idea of using invisible bombs as a way to add an element of surprise and challenge to the game. I felt that this would give players a sense of tension and excitement as they navigated the maze, wondering when the next bomb might appear and how to avoid it.
