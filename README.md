@@ -35,3 +35,21 @@ The final level of the game is the most difficult by far. The bombs have been pl
 **Bomb logic:** the bomb area has been reduced and has now only 4 adjacent cells activating the LED to alert the player of the danger. This change adds an extra layer of challenge to the game, as players must be more precise in their movements in order to avoid the bombs and successfully navigate the maze.
 
 ![asd](/Images/bomb-area-2.jpg)
+
+## Photo of setup:
+
+![asd](/Images/setup.jpg)
+
+## [Demo Video]()<br>
+
+## Components:<br>
+- 1 Arduino UNO board
+- 1 breadboard medium
+- 1 breadboard small
+- 1 LCD display
+- 1 8x8 LED matrix
+- 1 MAX7219 driver
+- 1 joystick
+- 1 buzzer
+- 1 potentiometer
+- resistors and wires (per logic)
