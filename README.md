@@ -22,7 +22,7 @@ Level 0 serves as a tutorial for players to familiarize themselves with the game
 
 **Bomb logic:** bomb areas are represented by a 3x3 square on the map, with the bomb located at the center. If the player comes into contact with any of the 8 cells adjacent to the bomb, the LED will turn on to alert the player of the danger. 
 
-// poza
+![asd](/Images/bomb-area-1.jpg)
 
 ### Levels 1-5
 This levels are designed to provide a enjoyable and challenging gameplay experience. Each level contains a series of puzzles that will require players to think critically and concentrate in order to solve them. These levels are designed to be fun and engaging, providing a satisfying challenge for players as they progress through the game.
@@ -33,3 +33,5 @@ This levels are designed to provide a enjoyable and challenging gameplay experie
 The final level of the game is the most difficult by far. The bombs have been placed strategically in such a way that they can only be detected through careful logical reasoning. Some paths may appear safe, but are actually traps, while others may lead to victory. Can you outwit the game and emerge victorious, or will the bombs be your downfall? This level will test your skills and determination to the limit.
 
 **Bomb logic:** the bomb area has been reduced and has now only 4 adjacent cells activating the LED to alert the player of the danger. This change adds an extra layer of challenge to the game, as players must be more precise in their movements in order to avoid the bombs and successfully navigate the maze.
+
+![asd](/Images/bomb-area-2.jpg)
